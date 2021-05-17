@@ -1,4 +1,5 @@
-Journal of real-time reconstruction
+
+# Journal of real-time reconstruction
 
 This prject has been on and off with me for nearly 6 month, it been a truly crazy ride! In school or in internships, you know something is possible. But what happens 
 when you know little about a filed, and your advisor, your teammates, even yourself questionning whether something is possible? Will you go on? Will you have the 
